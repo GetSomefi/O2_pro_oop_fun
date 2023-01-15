@@ -1,0 +1,15 @@
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\bin\Debug\net7.0\instantiate.exe
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\bin\Debug\net7.0\instantiate.deps.json
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\bin\Debug\net7.0\instantiate.runtimeconfig.json
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\bin\Debug\net7.0\instantiate.dll
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\bin\Debug\net7.0\instantiate.pdb
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.csproj.AssemblyReference.cache
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.AssemblyInfoInputs.cache
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.AssemblyInfo.cs
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.csproj.CoreCompileInputs.cache
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.dll
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\refint\instantiate.dll
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.pdb
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\instantiate.genruntimeconfig.cache
+C:\Users\peyte\OneDrive\Desktop\Ohjelmointi 2\2023\Testikoodit\instantiate\obj\Debug\net7.0\ref\instantiate.dll
