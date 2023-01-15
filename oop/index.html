@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="tarkista">Tarkista</button>
+
+    <script>
+        class Nappi { //luokka
+            constructor(id) { //konstruktori
+                this.nappi = document.getElementById(id);
+                if(this.nappi){
+                    this.nappi.addEventListener('click', this.teeJotain);
+                }else{
+                    console.log("Tarkista id: " + id);
+                }
+            }
+
+            teeJotain(){ //metodi
+                console.log("teen jotain")
+            }
+        }
+        const nappula = new Nappi("tarkista"); //instantiate
+        const nappula2 = new Nappi("tarkista2"); //instantiate
+    </script>
+</body>
+</html>

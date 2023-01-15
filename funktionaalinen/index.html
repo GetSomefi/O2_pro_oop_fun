@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="tarkista">Tarkista</button>
+
+    <script>
+    //1. talleta nappi muuttujaan
+    let btn = document.getElementById("tarkista")
+
+    //2.tee suoritettava funktio
+    let teeJotain = () => {
+        //5. tee jotain
+        console.log("teen jotain")
+    }
+    //3. kuuntele nappia ja 4. aja funktio, jos nappia painetaan
+    btn.addEventListener("click",teeJotain)
+     
+    </script>
+</body>
+</html>

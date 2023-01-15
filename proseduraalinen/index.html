@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="tarkista">Tarkista</button>
+
+    <script>
+        //etsi mitä vain elementtiä (id:llä) ja palauta se
+        function etsiNappiNimelta(nimi) {
+            return document.getElementById(nimi);
+        }
+
+        //tee suoritettava funktio
+        function teeJotain(){
+            console.log("teen jotain")
+        }
+
+        function nappi() {
+            //talletetaan löydetty nappi muuttujaan
+            const nappi = etsiNappiNimelta('tarkista');
+            //kuuntele nappia ja aja funktio, jos nappia painetaan
+            nappi.addEventListener('click', teeJotain);
+        }
+        //aja koko roska
+        nappi();
+
+    </script>
+</body>
+</html>
